@@ -1,0 +1,2507 @@
+## REGEXP to Find/Delete Spurius Works: .*?\[Sp\.\].*\n.*\n.*\n.*\n.*\n
+
+## Taken from TLG Online  18 May 2020 ##
+# Clicked on the author and copy / paste out of work-selection window
+# http://stephanus.tlg.uci.edu.proxy.library.nd.edu/Iris/inst/csearch.jsp#doc=tlg&aid=2062&wid=&q=JOANNES%20CHRYSOSTOMUS&st=author_text&dt=list
+##
+
+JOANNES CHRYSOSTOMUS Scr. Eccl.
+A.D. 4-5
+Scr. Eccl.
+Patriarcha (Constantinopoleos)
+Antiochenus, Constantinopolitanus
+Select all
+
+    1. Ad Theodorum lapsum (lib. 2) (= Epistula ad Theodorum monachum) {2062.001} (Click to select)
+    Eccl., Epist.
+    J. Dumortier, Jean Chrysostome. A Théodore [Sources chrétiennes 117. Paris: Éditions du Cerf, 1966]: 46-78.
+    Word Count: 3,011
+    Cross Reference
+
+    2. Ad Theodorum lapsum (lib. 1) {2062.002} (Click to select)
+    Eccl.
+    J. Dumortier, Jean Chrysostome. A Théodore [Sources chrétiennes 117. Paris: Éditions du Cerf, 1966]: 80-218.
+    Word Count: 14,157
+    Cross Reference
+
+    3. Adversus oppugnatores vitae monasticae (lib. 1-3) {2062.003} (Click to select)
+    Eccl.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 47, Paris: Migne, 1857-1866: 319-386.
+    Word Count: 31,197
+    Cross Reference
+
+    4. Ad Demetrium de compunctione (lib. 1) {2062.004} (Click to select)
+    Eccl.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 47, Paris: Migne, 1857-1866: 393-410.
+    Word Count: 7,692
+    Cross Reference
+
+    5. Ad Stelechium de compunctione (lib. 2) {2062.005} (Click to select)
+    Eccl.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 47, Paris: Migne, 1857-1866: 411-422.
+    Word Count: 5,534
+    Cross Reference
+
+    6. Ad Stagirium a daemone vexatum (lib. 1-3) {2062.006} (Click to select)
+    Eccl.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 47, Paris: Migne, 1857-1866: 423-494.
+    Word Count: 31,926
+    Cross Reference
+
+    7. Contra eos qui subintroductas habent virgines {2062.007} (Click to select)
+    Eccl., Epist.
+    J. Dumortier, Saint Jean Chrysostome. Les cohabitations suspectes, Paris: Les Belles Lettres, 1955: 44-94.
+    Word Count: 9,035
+    Cross Reference
+
+    8. Quod regulares feminae viris cohabitare non debeant {2062.008} (Click to select)
+    Eccl., Epist.
+    J. Dumortier, Saint Jean Chrysostome. Les cohabitations suspectes, Paris: Les Belles Lettres, 1955: 95-137.
+    Word Count: 8,441
+    Cross Reference
+
+    9. De virginitate {2062.009} (Click to select)
+    Eccl.
+    B. Grillet and H. Musurillo, Jean Chrysostome. La virginité [Sources chrétiennes 125. Paris: Éditions du Cerf, 1966]: 92-394.
+    Word Count: 31,443
+    Cross Reference
+
+    10. Ad viduam juniorem {2062.010} (Click to select)
+    Eccl.
+    G.H. Ettlinger and B. Grillet, Jean Chrysostome. A une jeune veuve. Sur le mariage unique [Sources chrétiennes 138. Paris: Éditions du Cerf, 1968]: 112-159.
+    Word Count: 4,639
+    Cross Reference
+
+    11. De non iterando conjugio {2062.011} (Click to select)
+    Eccl.
+    G.H. Ettlinger and B. Grillet, Jean Chrysostome. A une jeune veuve. Sur le mariage unique [Sources chrétiennes 138. Paris: Éditions du Cerf, 1968]: 160-201.
+    Word Count: 4,221
+    Cross Reference
+
+    12. De incomprehensibili dei natura (= Contra Anomoeos, homiliae 1-5) {2062.012} (Click to select)
+    Homilet.
+    A.-M. Malingrey, Jean Chrysostome. Sur l'incompréhensibilité de Dieu [Sources chrétiennes 28 bis. Paris: Éditions du Cerf, 1970]: 92-322.
+    Word Count: 21,035
+    Cross Reference
+
+    13. De beato Philogonio (= Contra Anomoeos, homilia 6) {2062.014} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 747-756.
+    Word Count: 3,377
+    Cross Reference
+
+    14. De consubstantiali (= Contra Anomoeos, homilia 7) {2062.015} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 755-768.
+    Word Count: 5,451
+    Cross Reference
+
+    15. De petitione matris filiorum Zebedaei (= Contra Anomoeos, homilia 8) {2062.016} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 767-778.
+    Word Count: 4,047
+    Cross Reference
+
+    16. In quatriduanum Lazarum (= Contra Anomoeos, homilia 9) [Sp.] {2062.017} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 779-784.
+    Word Count: 1,928
+    Cross Reference
+
+    17. De Christi precibus (= Contra Anomoeos, homilia 10) {2062.018} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 783-796.
+    Word Count: 4,759
+    Cross Reference
+
+    18. Contra Anomoeos (homilia 11) {2062.019} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 795-802.
+    Word Count: 2,831
+    Cross Reference
+
+    19. De Christi divinitate (= Contra Anomoeos, homilia 12) {2062.020} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 801-812.
+    Word Count: 4,105
+    Cross Reference
+
+    20. Adversus Judaeos (orationes 1-8) {2062.021} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 843-942.
+    Word Count: 44,508
+    Cross Reference
+
+    21. In Kalendas {2062.022} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 953-962.
+    Word Count: 4,052
+    Cross Reference
+
+    22. De Lazaro (homiliae 1-7) {2062.023} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 963-1054.
+    Word Count: 38,864
+    Cross Reference
+
+    23. Ad populum Antiochenum (homiliae 1-21) {2062.024} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 15-222.
+    Word Count: 95,201
+    Cross Reference
+
+    24. Ad illuminandos catecheses 1-2 (series prima et secunda) {2062.025} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 223-240.
+    Word Count: 8,299
+    Cross Reference
+
+    25. De diabolo tentatore (homiliae 1-3) {2062.026} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 241-276.
+    Word Count: 12,979
+    Cross Reference
+
+    26. De paenitentia (homiliae 1-9) {2062.027} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 277-350.
+    Word Count: 31,078
+    Breakdown
+    Cross Reference
+
+    27. In diem natalem {2062.028} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 351-362.
+    Word Count: 4,832
+    Cross Reference
+
+    28. De baptismo Christi {2062.029} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 363-372.
+    Word Count: 3,632
+    Cross Reference
+
+    29. De proditione Judae (homiliae 1-2) {2062.030} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 373-392.
+    Word Count: 8,822
+    Cross Reference
+
+    30. De coemeterio et de cruce {2062.031} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 393-398.
+    Word Count: 2,267
+    Cross Reference
+
+    31. De cruce et latrone (homilia 1) {2062.032} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 399-408.
+    Word Count: 3,620
+    Cross Reference
+
+    32. De cruce et latrone (homilia 2) {2062.033} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 49, Paris: Migne, 1857-1866: 407-418.
+    Word Count: 4,654
+    Cross Reference
+
+    33. De resurrectione mortuorum {2062.034} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 417ter-432.
+    Word Count: 6,360
+    Cross Reference
+
+    34. Adversus ebriosos et de resurrectione domini nostri Jesu Christi {2062.035} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 433-442.
+    Word Count: 3,571
+    Cross Reference
+
+    35. In ascensionem domini nostri Jesu Christi {2062.036} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 441-452.
+    Word Count: 3,994
+    Cross Reference
+
+    36. De sancta pentecoste (homiliae 1-2) {2062.037} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 453-470.
+    Word Count: 7,208
+    Cross Reference
+
+    37. De sancto Meletio Antiocheno {2062.039} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 515-520.
+    Word Count: 2,144
+    Cross Reference
+
+    38. In sanctum Lucianum martyrem {2062.040} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 519-526.
+    Word Count: 2,071
+    Cross Reference
+
+    39. De sancto hieromartyre Babyla {2062.041} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 527-534.
+    Word Count: 2,094
+    Cross Reference
+
+    40. De sancta Pelagia virgine et martyre {2062.043} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 579-584.
+    Word Count: 2,495
+    Cross Reference
+
+    41. In sanctum Ignatium martyrem {2062.044} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 587-596.
+    Word Count: 3,992
+    Cross Reference
+
+    42. In sanctum Eustathium Antiochenum {2062.045} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 597-606.
+    Word Count: 3,117
+    Cross Reference
+
+    43. De Maccabeis (homiliae 1-3) {2062.047} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 617-628.
+    Word Count: 4,373
+    Cross Reference
+
+    44. De sanctis Bernice et Prosdoce {2062.048} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 629-640.
+    Word Count: 5,131
+    Cross Reference
+
+    45. In quatriduanum Lazarum {2062.049} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 641-644.
+    Word Count: 1,250
+    Cross Reference
+
+    46. De sanctis martyribus {2062.050} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 645-654.
+    Word Count: 3,087
+    Cross Reference
+
+    47. Non esse ad gratiam concionandum {2062.051} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 653-662.
+    Word Count: 3,833
+    Cross Reference
+
+    48. Homilia in martyres {2062.052} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 661-666.
+    Word Count: 1,180
+    Cross Reference
+
+    49. De sancta Droside martyre {2062.055} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 683-694.
+    Word Count: 4,246
+    Cross Reference
+
+    50. De sancto hieromartyre Phoca {2062.057} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 699-706.
+    Word Count: 2,924
+    Cross Reference
+
+    51. De sanctis martyribus {2062.058} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 705-712.
+    Word Count: 2,354
+    Cross Reference
+
+    52. De terrae motu {2062.059} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 713-716.
+    Word Count: 1,404
+    Cross Reference
+
+    53. De fato et providentia (orationes 1-6) {2062.060} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 749-774.
+    Word Count: 11,049
+    Cross Reference
+
+    54. De decem millium talentorum debitore {2062.061} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 17*-30.
+    Word Count: 5,699
+    Cross Reference
+
+    55. In illud: Pater, si possibile est, transeat {2062.062} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 31-40.
+    Word Count: 4,104
+    Cross Reference
+
+    56. In paralyticum demissum per tectum {2062.063} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 47-64.
+    Word Count: 6,499
+    Cross Reference
+
+    57. In principium Actorum (homiliae 1-4) {2062.064} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 65-112.
+    Word Count: 19,641
+    Cross Reference
+
+    58. De mutatione nominum (homiliae 1-4) {2062.065} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 113-156.
+    Word Count: 18,281
+    Cross Reference
+
+    59. De gloria in tribulationibus {2062.066} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 155-164.
+    Word Count: 3,770
+    Cross Reference
+
+    60. In illud: Diligentibus deum omnia cooperantur in bonum {2062.067} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 165-172.
+    Word Count: 2,671
+    Cross Reference
+
+    61. In illud: Si esurierit inimicus {2062.068} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 171-186.
+    Word Count: 6,184
+    Cross Reference
+
+    62. In illud: Salutate Priscillam et Aquilam (sermones 1-2) {2062.069} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 187-208.
+    Word Count: 8,746
+    Cross Reference
+
+    63. In illud: Propter fornicationes autem unusquisque suam uxorem habeat {2062.070} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 207-218.
+    Word Count: 4,224
+    Cross Reference
+
+    64. De libello repudii {2062.071} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 217-226.
+    Word Count: 3,350
+    Cross Reference
+
+    65. Quales ducendae sint uxores (= Encomium ad Maximum) {2062.072} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 225-242.
+    Word Count: 7,587
+    Cross Reference
+
+    66. In dictum Pauli: Nolo vos ignorare {2062.073} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 241-252.
+    Word Count: 4,888
+    Cross Reference
+
+    67. In dictum Pauli: Oportet haereses esse {2062.074} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 251-260.
+    Word Count: 3,523
+    Cross Reference
+
+    68. De eleemosyna {2062.075} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 261-272.
+    Word Count: 4,725
+    Cross Reference
+
+    69. In illud: Habentes eundem spiritum (homiliae 1-3) {2062.076} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 271-302.
+    Word Count: 12,881
+    Cross Reference
+
+    70. In illud: Utinam sustineretis modicum {2062.077} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 301-310.
+    Word Count: 3,765
+    Cross Reference
+
+    71. De profectu evangelii {2062.078} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 311-320.
+    Word Count: 4,334
+    Cross Reference
+
+    72. In illud: Vidua eligatur {2062.079} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 321-338.
+    Word Count: 6,909
+    Cross Reference
+
+    73. In Heliam et viduam {2062.080} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 337-348.
+    Word Count: 3,949
+    Cross Reference
+
+    74. De futurae vitae deliciis {2062.081} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 347-354.
+    Word Count: 2,406
+    Cross Reference
+
+    75. Peccata fratrum non evulganda {2062.082} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 353-364.
+    Word Count: 4,433
+    Cross Reference
+
+    76. Non esse desperandum {2062.083} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 363-372.
+    Word Count: 2,960
+    Cross Reference
+
+    77. In illud: In faciem ei restiti {2062.084} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 371-388.
+    Word Count: 7,213
+    Cross Reference
+
+    78. De sacerdotio (lib. 1-6) {2062.085} (Click to select)
+    Eccl.
+    A.-M. Malingrey, Jean Chrysostome. Sur le sacerdoce [Sources chrétiennes 272. Paris: Éditions du Cerf, 1980]: 60-362.
+    Word Count: 31,473
+    Cross References
+
+    79. Quod nemo laeditur nisi a se ipso {2062.086} (Click to select)
+    Eccl., Epist.
+    A.-M. Malingrey, Lettre d'exil à Olympias et à tous les fidèles [Sources chrétiennes 103. Paris: Éditions du Cerf, 1964]: 56-144.
+    Word Count: 8,475
+    Cross Reference
+
+    80. Ad eos qui scandalizati sunt {2062.087} (Click to select)
+    Eccl.
+    A.-M. Malingrey, Jean Chrysostome. Sur la providence de Dieu [Sources chrétiennes 79. Paris: Éditions du Cerf, 1961]: 52-276.
+    Word Count: 20,742
+    Cross Reference
+
+    81. Epistulae ad Olympiadem (epist. 1-17) {2062.088} (Click to select)
+    Eccl., Epist.
+    A.-M. Malingrey, Jean Chrysostome. Lettres à Olympias, 2nd edn. [Sources chrétiennes 13 bis. Paris: Éditions du Cerf, 1968]: 106-388.
+    Word Count: 29,330
+    Cross Reference
+
+    82. In Eutropium {2062.089} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 391-396.
+    Word Count: 2,081
+    Cross Reference
+
+    83. Cum Saturninus et Aurelianus acti essent in exsilium {2062.090} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 413-420.
+    Word Count: 2,062
+    Cross Reference
+
+    84. Sermo antequam iret in exsilium {2062.091} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 427*-432.
+    Word Count: 1,860
+    Cross Reference
+
+    85. Sermo cum iret in exsilium {2062.092} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 435*-438.
+    Word Count: 833
+    Cross Reference
+
+    86. Post reditum a priore exsilio (sermo 2) {2062.093} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 443-448.
+    Word Count: 1,944
+    Cross Reference
+
+    87. Ad Innocentium papam (epist. 1) {2062.094} (Click to select)
+    Epist.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 529-536.
+    Word Count: 1,904
+    Cross Reference
+
+    88. Ad Innocentium papam (epist. 2) {2062.095} (Click to select)
+    Epist.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 535-536.
+    Word Count: 547
+    Cross Reference
+
+    89. Epistula ad episcopos, presbyteros et diaconos {2062.096} (Click to select)
+    Epist.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 541*-542*.
+    Word Count: 652
+    Cross Reference
+
+    90. Epistulae 18-242 {2062.097} (Click to select)
+    Epist.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 623-748.
+    Word Count: 45,994
+    Breakdown
+    Cross References
+
+    91. Laus Diodori episcopi {2062.098} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 761-766.
+    Word Count: 1,024
+    Cross Reference
+
+    92. In sanctum pascha {2062.099} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 765-772.
+    Word Count: 2,698
+    Cross Reference
+
+    93. In ascensionem (sermo 1) [Sp.] {2062.100} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 791-794.
+    Word Count: 740
+    Cross Reference
+
+    94. De Chananaea [Dub.] {2062.101} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 449-460.
+    Word Count: 4,774
+    Cross Reference
+
+    95. In ascensionem (sermo 2) [Sp.] {2062.103} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 793-796.
+    Word Count: 1,587
+    Cross Reference
+
+    96. In ascensionem (sermo 3) [Sp.] {2062.104} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 797-800.
+    Word Count: 1,053
+    Cross Reference
+
+    97. In ascensionem (sermo 4) [Sp.] {2062.105} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 799-802.
+    Word Count: 1,617
+    Cross Reference
+
+    98. In ascensionem (sermo 5) [Sp.] {2062.106} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 801-802.
+    Word Count: 462
+    Cross Reference
+
+    99. In pentecosten (sermo 1) [Sp.] {2062.107} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 803-808.
+    Word Count: 2,206
+    Cross Reference
+
+    100. In pentecosten (sermo 2) [Sp.] {2062.108} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 807-809.
+    Word Count: 1,180
+    Cross Reference
+
+    101. De adoratione pretiosae crucis [Sp.] {2062.110} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 835-840.
+    Word Count: 2,688
+    Cross Reference
+
+    102. De confessione pretiosae crucis [Sp.] {2062.111} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 841-844.
+    Word Count: 1,850
+    Cross Reference
+
+    103. In Genesim (homiliae 1-67) {2062.112} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 53:21-385; 54:385-580, Paris: Migne, 1857-1866:
+    Word Count: 272,408
+    Cross Reference
+
+    104. In Genesim (sermones 1-9) {2062.113} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 54, Paris: Migne, 1857-1866: 581-630.
+    Word Count: 21,889
+    Cross Reference
+
+    105. De Anna (sermones 1-5) {2062.114} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 54, Paris: Migne, 1857-1866: 631-676.
+    Word Count: 19,646
+    Cross Reference
+
+    106. De Davide et Saule (homiliae 1-3) {2062.115} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 54, Paris: Migne, 1857-1866: 675-708.
+    Word Count: 14,359
+    Cross Reference
+
+    107. Comparatio regis et monachi [Dub.] {2062.116} (Click to select)
+    Eccl., Phil.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 47, Paris: Migne, 1857-1866: 387-392.
+    Word Count: 2,161
+    Cross Reference
+
+    108. Ascetam facetiis uti non debere [Sp.] {2062.117} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1055-1060.
+    Word Count: 2,520
+    Cross Reference
+
+    109. De jejunio et eleemosyna [Sp.] {2062.118} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1059-1062.
+    Word Count: 1,675
+    Cross Reference
+
+    110. De sacerdotio (lib. 7) [Sp.] {2062.119} (Click to select)
+    Eccl.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1067-1070.
+    Word Count: 1,604
+    Cross References
+
+    111. Christi discipulum benignum esse debere [Sp.] {2062.120} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1069-1072.
+    Word Count: 1,279
+    Cross Reference
+
+    112. De fugienda simulata specie [Sp.] {2062.121} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1073-1076.
+    Word Count: 1,111
+    Cross Reference
+
+    113. Contra Judaeos, gentiles et haereticos et in illud: Vocatus est Jesus ad nuptias [Sp.] {2062.122} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1075-1080.
+    Word Count: 2,867
+    Cross Reference
+
+    114. De sancta trinitate [Sp.] {2062.123} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 48, Paris: Migne, 1857-1866: 1087-1096.
+    Word Count: 5,161
+    Cross Reference
+
+    115. In Romanum martyrem (homilia 2) [Sp.] {2062.124} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 611-618.
+    Word Count: 1,909
+    Cross Reference
+
+    116. In proditionem Judae [Sp.] {2062.125} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 715-720.
+    Word Count: 1,102
+    Cross Reference
+
+    117. In Bassum martyrem [Dub.] {2062.126} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 719-726.
+    Word Count: 2,066
+    Cross Reference
+
+    118. In sanctos Petrum et Heliam [Sp.] {2062.127} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 725-736.
+    Word Count: 4,655
+    Cross Reference
+
+    119. De beato Abraham [Sp.] {2062.128} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 737-746.
+    Word Count: 3,634
+    Cross Reference
+
+    120. De sancta Thecla martyre [Sp.] {2062.129} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 745-748.
+    Word Count: 920
+    Cross References
+
+    121. De precatione (orat. 1-2) [Sp.] {2062.130} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 775-786.
+    Word Count: 4,687
+    Cross Reference
+
+    122. In oraculum Zachariae redditum [Sp.] (fort. sub auctore Proclo) {2062.131} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 785-788.
+    Word Count: 1,095
+    Cross Reference
+
+    123. In laudem conceptionis sancti Joannis Baptistae [Sp.] (fort. sub auctore Proclo) {2062.132} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 787-792.
+    Word Count: 2,146
+    Cross Reference
+
+    124. In annuntiationem beatae virginis [Sp.] {2062.133} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 791-796.
+    Word Count: 1,385
+    Cross Reference
+
+    125. In illud: Exiit edictum [Sp.] {2062.134} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 795-800.
+    Word Count: 2,747
+    Cross Reference
+
+    126. In sanctum Joannem praecursorem [Sp.] {2062.135} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 801-806.
+    Word Count: 2,303
+    Cross Reference
+
+    127. In sanctam theophaniam seu baptismum Christi [Sp.] {2062.136} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 805-808.
+    Word Count: 1,338
+    Cross Reference
+
+    128. De occursu domini, de deipara et Symeone [Sp.] {2062.137} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 807-812.
+    Word Count: 2,121
+    Cross Reference
+
+    129. In sancta et magna parasceve [Sp.] {2062.138} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 811-816.
+    Word Count: 2,157
+    Cross Reference
+
+    130. In venerabilem crucem sermo [Sp.] {2062.139} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 815-820.
+    Word Count: 2,236
+    Cross Reference
+
+    131. In triduanam resurrectionem domini [Sp.] {2062.140} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 50, Paris: Migne, 1857-1866: 821-824.
+    Word Count: 1,731
+    Cross Reference
+
+    132. De angusta porta et in orationem dominicam [Sp.] {2062.141} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 51, Paris: Migne, 1857-1866: 41-48.
+    Word Count: 3,064
+    Cross Reference
+
+    133. Homilia de capto Eutropio [Dub.] {2062.142} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 52, Paris: Migne, 1857-1866: 395-414.
+    Word Count: 7,957
+    Cross Reference
+
+    134. Expositiones in Psalmos {2062.143} (Click to select)
+    Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 39-498.
+    Word Count: 199,701
+    Cross Reference
+
+    135. In illud: Ne timueritis cum dives factus fuerit homo (homiliae 1-2) {2062.144} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 499-518.
+    Word Count: 8,220
+    Cross Reference
+
+    136. In Psalmum 145 {2062.145} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 519-528.
+    Word Count: 3,949
+    Cross Reference
+
+    137. In illud Isaiae: Ego dominus deus feci lumen {2062.148} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 141-152.
+    Word Count: 4,858
+    Cross Reference
+
+    138. In illud: Domine, non est in homine {2062.149} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 153-162.
+    Word Count: 3,838
+    Cross Reference
+
+    139. De prophetiarum obscuritate (homiliae 1-2) {2062.150} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 163-192.
+    Word Count: 12,290
+    Cross Reference
+
+    140. In illud: Hoc scitote quod in novissimis diebus {2062.151} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 271-280.
+    Word Count: 3,721
+    Cross Reference
+
+    141. In Matthaeum (homiliae 1-90) {2062.152} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 57:13-472; 58:471-794, Paris: Migne, 1857-1866:
+    Word Count: 317,388
+    Cross Reference
+
+    142. In Joannem (homiliae 1-88) {2062.153} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 23-482.
+    Word Count: 220,089
+    Cross Reference
+
+    143. In Acta apostolorum (homiliae 1-55) {2062.154} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 13-384.
+    Word Count: 173,626
+    Cross Reference
+
+    144. In epistulam ad Romanos (homiliae 1-32) {2062.155} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 391-682.
+    Word Count: 139,114
+    Cross Reference
+
+    145. In epistulam i ad Corinthios (homiliae 1-44) {2062.156} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 9-382.
+    Word Count: 172,926
+    Cross Reference
+
+    146. In epistulam ii ad Corinthios (homiliae 1-30) {2062.157} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 381-610.
+    Word Count: 94,386
+    Cross Reference
+
+    147. In epistulam ad Galatas commentarius {2062.158} (Click to select)
+    Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 611-682.
+    Word Count: 30,252
+    Cross Reference
+
+    148. In epistulam ad Ephesios (homiliae 1-24) {2062.159} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 9-176.
+    Word Count: 74,570
+    Cross Reference
+
+    149. In epistulam ad Philippenses (homiliae 1-15) {2062.160} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 177-298.
+    Word Count: 50,337
+    Cross Reference
+
+    150. In epistulam ad Colossenses (homiliae 1-12) {2062.161} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 299-392.
+    Word Count: 40,837
+    Cross Reference
+
+    151. In epistulam i ad Thessalonicenses (homiliae 1-11) {2062.162} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 391-468.
+    Word Count: 34,219
+    Cross Reference
+
+    152. In epistulam ii ad Thessalonicenses (homiliae 1-5) {2062.163} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 467-500.
+    Word Count: 14,477
+    Cross Reference
+
+    153. In epistulam i ad Timotheum (homiliae 1-18) {2062.164} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 501-600.
+    Word Count: 45,035
+    Cross Reference
+
+    154. In epistulam ii ad Timotheum (homiliae 1-10) {2062.165} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 599-662.
+    Word Count: 29,153
+    Cross Reference
+
+    155. In epistulam ad Titum (homiliae 1-6) {2062.166} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 663-700.
+    Word Count: 16,249
+    Cross Reference
+
+    156. In epistulam ad Philemonem (homiliae 1-3) {2062.167} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 701-720.
+    Word Count: 7,567
+    Cross Reference
+
+    157. In epistulam ad Hebraeos (homiliae 1-34) {2062.168} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 9-236.
+    Word Count: 101,231
+    Cross Reference
+
+    158. Homilia dicta postquam reliquiae martyrum {2062.169} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 467-472.
+    Word Count: 1,937
+    Cross Reference
+
+    159. Homilia dicta praesente imperatore {2062.170} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 473-478.
+    Word Count: 2,288
+    Cross Reference
+
+    160. Quod frequenter conveniendum sit {2062.171} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 461-468.
+    Word Count: 3,214
+    Cross Reference
+
+    161. Adversus eos qui non adfuerant {2062.172} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 477-486.
+    Word Count: 3,446
+    Cross Reference
+
+    162. De studio praesentium {2062.173} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 485-492.
+    Word Count: 2,771
+    Cross Reference
+
+    163. Adversus catharos {2062.174} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 491-494.
+    Word Count: 933
+    Cross Reference
+
+    164. Contra ludos et theatra {2062.175} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 263-270.
+    Word Count: 2,307
+    Cross Reference
+
+    165. Homilia dicta in templo sanctae Anastasiae {2062.176} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 493-500.
+    Word Count: 3,263
+    Cross Reference
+
+    166. Homilia habita postquam presbyter Gothus concionatus fuerat {2062.177} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 499-510.
+    Word Count: 4,633
+    Cross Reference
+
+    167. In illud: Pater meus usque modo operatur {2062.178} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 511-516.
+    Word Count: 2,629
+    Cross Reference
+
+    168. In illud: Messis quidem multa {2062.179} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 515-524.
+    Word Count: 3,468
+    Cross Reference
+
+    169. In illud: Filius ex se nihil facit {2062.180} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 247-256.
+    Word Count: 4,409
+    Cross Reference
+
+    170. De Eleazaro et septem pueris {2062.181} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 523-530.
+    Word Count: 3,086
+    Cross Reference
+
+    171. In poenitentiam Ninivitarum [Sp.] {2062.182} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 424-433.
+    Word Count: 2,027
+    Cross Reference
+
+    172. Fragmenta in Job (in catenis) {2062.184} (Click to select)
+    Caten., Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 505-656.
+    Word Count: 28,052
+    Cross Reference
+
+    173. Fragmenta in Proverbia (in catenis) {2062.185} (Click to select)
+    Caten., Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 660-740.
+    Word Count: 15,498
+    Cross Reference
+
+    174. Fragmenta in Jeremiam (in catenis) {2062.186} (Click to select)
+    Caten., Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 740-1037.
+    Word Count: 54,323
+    Cross Reference
+
+    175. Fragmenta in epistulas catholicas {2062.187} (Click to select)
+    Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 1040-1061.
+    Word Count: 3,921
+    Cross Reference
+
+    176. In Psalmum 50 [Sp.] {2062.196} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 527-532.
+    Word Count: 1,452
+    Cross Reference
+
+    177. Prooemia in Psalmos (fragmenta) [Sp.] {2062.197} (Click to select)
+    Exeget., Homilet., Hypoth.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 531-538.
+    Word Count: 2,894
+    Breakdown
+    Cross Reference
+
+    178. In illud: Verumtamen frustra conturbatur [Sp.] {2062.198} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 559-564.
+    Word Count: 1,992
+    Cross Reference
+
+    179. In Psalmum 50 (homilia 1) [Sp.] {2062.199} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 565-575.
+    Word Count: 5,657
+    Cross References
+
+    180. In Psalmum 50 (homilia 2) [Sp.] {2062.200} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 575-588.
+    Word Count: 7,456
+    Cross Reference
+
+    181. In Psalmum 75 [Sp.] {2062.201} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 593-598.
+    Word Count: 2,307
+    Cross Reference
+
+    182. De turture seu de ecclesia sermo [Sp.] {2062.202} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 599-602.
+    Word Count: 2,118
+    Cross Reference
+
+    183. In Psalmum 92 [Sp.] {2062.203} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 611-616.
+    Word Count: 2,039
+    Cross Reference
+
+    184. In Psalmum 94 [Sp.] {2062.204} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 615-620.
+    Word Count: 1,926
+    Cross Reference
+
+    185. In Psalmum 100 [Sp.] {2062.205} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 629-636.
+    Word Count: 3,634
+    Cross Reference
+
+    186. In Psalmos 101-107 [Sp.] {2062.206} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 635-674.
+    Word Count: 23,553
+    Cross Reference
+
+    187. In Psalmum 118 (homiliae 1-3) [Sp.] {2062.207} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 675-708.
+    Word Count: 20,078
+    Cross Reference
+
+    188. In Psalmum 139 [Sp.] {2062.208} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 55, Paris: Migne, 1857-1866: 707-710.
+    Word Count: 1,648
+    Cross Reference
+
+    189. Interpretatio in Danielem prophetam [Sp.] {2062.209} (Click to select)
+    Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 193-246.
+    Word Count: 20,783
+    Cross Reference
+
+    190. De Melchisedech [Sp.] {2062.210} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 257-262.
+    Word Count: 1,850
+    Cross Reference
+
+    191. De perfecta caritate [Sp.] {2062.211} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 279-290.
+    Word Count: 4,787
+    Cross Reference
+
+    192. De continentia [Sp.] {2062.212} (Click to select)
+    Homilet.
+    S. Haidacher, "Drei unedierte Chrysostomus-Texte einer Baseler Handschrift," Zeitschrift für katholische Theologie 30 (1906): 575-581.
+    Word Count: 1,474
+    Cross Reference
+
+    193. Synopsis scripturae sacrae [Sp.] {2062.213} (Click to select)
+    Exeget.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 313-386.
+    Word Count: 31,495
+    Cross Reference
+
+    194. In natalem Christi diem [Dub.] {2062.214} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 385-394.
+    Word Count: 2,993
+    Cross Reference
+
+    195. In Genesim (sermo 3) [Sp.] {2062.216} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 525-538.
+    Word Count: 7,448
+    Cross Reference
+
+    196. Contra theatra [Sp.] {2062.217} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 541-554.
+    Word Count: 6,554
+    Cross Reference
+
+    197. In Eliam prophetam [Sp.] {2062.219} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 583-586.
+    Word Count: 1,874
+    Cross Reference
+
+    198. De Joseph et de castitate [Sp.] {2062.220} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 587-590.
+    Word Count: 1,935
+    Cross Reference
+
+    199. De Susanna [Sp.] {2062.221} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 56, Paris: Migne, 1857-1866: 589-594.
+    Word Count: 2,120
+    Cross Reference
+
+    200. In decollationem sancti Joannis [Sp.] {2062.224} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 485-490.
+    Word Count: 2,169
+    Cross Reference
+
+    201. In praecursorem domini [Sp.] {2062.225} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 489-492.
+    Word Count: 873
+    Cross Reference
+
+    202. In Petrum et Paulum [Sp.] {2062.226} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 491-496.
+    Word Count: 1,631
+    Cross Reference
+
+    203. In duodecim apostolos [Sp.] {2062.227} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 495-498.
+    Word Count: 987
+    Breakdown
+    Cross Reference
+
+    204. In sanctum Thomam apostolum [Sp.] {2062.228} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 497-500.
+    Word Count: 1,199
+    Cross Reference
+
+    205. In sanctum Stephanum protomartyrem [Sp.] {2062.229} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 501-508.
+    Word Count: 3,668
+    Cross Reference
+
+    206. In illud: Sufficit tibi gratia mea [Sp.] {2062.230} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 507-516.
+    Word Count: 4,940
+    Cross Reference
+
+    207. In parabolam de filio prodigo [Sp.] {2062.231} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 515-522.
+    Word Count: 3,285
+    Cross Reference
+
+    208. In saltationem Herodiadis [Sp.] {2062.232} (Click to select)
+    Exeget., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 521-526.
+    Word Count: 1,715
+    Cross Reference
+
+    209. In illud: Collegerunt Judaei [Sp.] {2062.233} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 525-528.
+    Word Count: 1,114
+    Cross Reference
+
+    210. In decem virgines [Sp.] {2062.234} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 527-532.
+    Word Count: 1,909
+    Cross Reference
+
+    211. In Samaritanam [Sp.] {2062.235} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 535-542.
+    Word Count: 4,337
+    Cross Reference
+
+    212. De pseudoprophetis [Sp.] {2062.237} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 553-568.
+    Word Count: 8,346
+    Cross Reference
+
+    213. De circo [Sp.] {2062.238} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 567-570.
+    Word Count: 1,227
+    Cross Reference
+
+    214. In illud: Attendite ne eleemosynam vestram faciatis coram hominibus [Sp.] {2062.239} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 571-574.
+    Word Count: 1,795
+    Cross Reference
+
+    215. In principium indictionis, in martyres [Sp.] {2062.240} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 575-578.
+    Word Count: 1,577
+    Cross Reference
+
+    216. In illud: Simile est regnum caelorum patri familias [Sp.] {2062.241} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 577-586.
+    Word Count: 3,999
+    Cross Reference
+
+    217. In parabolam de ficu [Sp.] (fort. auctore quodam Cappadoce) {2062.242} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 585-590.
+    Word Count: 2,329
+    Cross Reference
+
+    218. De pharisaeo [Sp.] {2062.243} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 589-592.
+    Word Count: 1,105
+    Cross Reference
+
+    219. De Lazaro et divite [Sp.] {2062.244} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 591-596.
+    Word Count: 1,612
+    Cross Reference
+
+    220. In publicanum et pharisaeum [Sp.] {2062.245} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 595-600.
+    Word Count: 1,728
+    Cross Reference
+
+    221. In Joannem theologum [Sp.] {2062.247} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 609-614.
+    Word Count: 2,578
+    Cross Reference
+
+    222. De negatione Petri [Sp.] {2062.248} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 613-620.
+    Word Count: 2,752
+    Cross Reference
+
+    223. In secundum domini adventum [Sp.] {2062.249} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 619-628.
+    Word Count: 3,735
+    Cross Reference
+
+    224. Interpretatio orationis Pater noster [Sp.] {2062.250} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 627-628.
+    Word Count: 509
+    Cross Reference
+
+    225. In principium indictionis [Sp.] {2062.251} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 673-674.
+    Word Count: 688
+    Cross Reference
+
+    226. In venerandum crucem [Sp.] {2062.252} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 675-678.
+    Word Count: 1,941
+    Cross Reference
+
+    227. In exaltationem venerandae crucis [Sp.] {2062.253} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 679-682.
+    Word Count: 1,749
+    Cross Reference
+
+    228. In sanctum Stephanum [Sp.] {2062.254} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 699-702.
+    Word Count: 870
+    Cross Reference
+
+    229. In mediam hebdomadam jejuniorum [Sp.] {2062.255} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 701-704.
+    Word Count: 713
+    Cross Reference
+
+    230. In ramos palmarum [Sp.] {2062.256} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 703-708.
+    Word Count: 2,534
+    Cross Reference
+
+    231. Contra haereticos et in sanctam deiparam [Sp.] {2062.257} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 709-714.
+    Word Count: 2,332
+    Cross Reference
+
+    232. In latronem [Sp.] {2062.258} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 719-722.
+    Word Count: 1,264
+    Cross Reference
+
+    233. Sermo catecheticus in pascha [Sp.] {2062.259} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 721-724.
+    Word Count: 318
+    Cross Reference
+
+    234. In sanctum pascha (sermo 1) [Sp.] (fort. auctore Apollinare Laodicense) {2062.260} (Click to select)
+    Homilet.
+    P. Nautin, Homélies pascales, vol. 2 [Sources chrétiennes 36. Paris: Éditions du Cerf, 1953]: 55-75.
+    Word Count: 1,746
+    Cross Reference
+
+    235. In sanctum pascha (sermo 2) [Sp.] (fort. auctore Apollinare Laodicense) {2062.261} (Click to select)
+    Homilet.
+    P. Nautin, Homélies pascales, vol. 2 [Sources chrétiennes 36. Paris: Éditions du Cerf, 1953]: 77-101.
+    Word Count: 2,087
+    Cross Reference
+
+    236. In sanctum pascha (sermo 3) [Sp.] (fort. auctore Apollinare Laodicense) {2062.262} (Click to select)
+    Homilet.
+    P. Nautin, Homélies pascales, vol. 2 [Sources chrétiennes 36. Paris: Éditions du Cerf, 1953]: 103-117.
+    Word Count: 1,154
+    Cross Reference
+
+    237. In sanctum pascha (sermo 4) [Sp.] {2062.263} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 731-732.
+    Word Count: 695
+    Cross Reference
+
+    238. In sanctum pascha (sermo 5) [Sp.] {2062.264} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 731-736.
+    Word Count: 2,025
+    Cross Reference
+
+    239. In sanctum pascha (sermo 6) [Sp.] {2062.265} (Click to select)
+    Homilet.
+    P. Nautin, Homélies pascales, vol. 1 [Sources chrétiennes 27. Paris: Éditions du Cerf, 1950]: 117-191.
+    Word Count: 6,012
+    Cross Reference
+
+    240. In sanctum pascha (sermo 7) [Sp.] {2062.266} (Click to select)
+    Homilet.
+    F. Floëri and P. Nautin, Homélies pascales, vol. 3 [Sources chrétiennes 48. Paris: Éditions du Cerf, 1957]: 111-173.
+    Word Count: 5,440
+    Cross Reference
+
+    241. In synaxim archangelorum [Sp.] {2062.267} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 755-756.
+    Word Count: 822
+    Cross Reference
+
+    242. De paenitentia [Sp.] {2062.268} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 59, Paris: Migne, 1857-1866: 757-766.
+    Word Count: 5,232
+    Cross Reference
+
+    243. De paenitentia (sermo 1) [Sp.] {2062.269} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 681-700.
+    Word Count: 10,320
+    Cross Reference
+
+    244. De paenitentia (sermo 2) [Sp.] {2062.270} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 699-706.
+    Word Count: 3,660
+    Cross Reference
+
+    245. De paenitentia (sermo 3) [Sp.] {2062.271} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 705-708.
+    Word Count: 1,343
+    Cross Reference
+
+    246. De eleemosyna [Sp.] {2062.272} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 707-712.
+    Word Count: 2,375
+    Cross Reference
+
+    247. De jejunio (sermones 1-7) [Sp.] {2062.273} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 711-724.
+    Word Count: 6,761
+    Cross Reference
+
+    248. De patientia (sermo 1) [Sp.] {2062.274} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 723-730.
+    Word Count: 3,830
+    Cross Reference
+
+    249. De patientia (sermo 2) [Sp.] {2062.275} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 729-736.
+    Word Count: 3,174
+    Cross Reference
+
+    250. De salute animae [Sp.] {2062.276} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 735-738.
+    Word Count: 1,747
+    Cross Reference
+
+    251. In catechumenos [Sp.] {2062.277} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 739-742.
+    Word Count: 1,500
+    Cross Reference
+
+    252. De corruptoribus virginum [Sp.] {2062.278} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 741-744.
+    Word Count: 1,689
+    Cross Reference
+
+    253. Contra haereticos [Sp.] {2062.279} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 745-748.
+    Word Count: 1,246
+    Cross Reference
+
+    254. De eleemosyna [Sp.] {2062.280} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 747-752.
+    Word Count: 2,673
+    Cross Reference
+
+    255. Epistula ad monachos [Sp.] {2062.281} (Click to select)
+    Eccl., Epist.
+    P.G. Nicolopoulos, Αἱ εἰς τὸν Ἰωάννην τὸν Χρυσόστομον ἐσφαλμένως ἀποδιδόμεναι ἐπιστολαί, Athens: Tsiveriotes, 1973: 481-493.
+    Word Count: 2,615
+    Cross Reference
+
+    256. In annuntiationem sanctissimae deiparae [Sp.] {2062.282} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 755-760.
+    Word Count: 1,801
+    Cross Reference
+
+    257. De remissione peccatorum [Sp.] (fort. auctore quodam Cappadoce) {2062.283} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 759-764.
+    Word Count: 2,536
+    Cross Reference
+
+    258. De non judicando proximo [Sp.] {2062.284} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 763-766.
+    Word Count: 1,474
+    Cross Reference
+
+    259. De paenitentia [Sp.] {2062.285} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 765-768.
+    Word Count: 1,128
+    Cross Reference
+
+    260. De spe [Sp.] {2062.286} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 771-774.
+    Word Count: 1,160
+    Cross Reference
+
+    261. De caritate [Sp.] {2062.287} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 60, Paris: Migne, 1857-1866: 773-776.
+    Word Count: 842
+    Cross Reference
+
+    262. Caritatem secundum deum rem esse deo dignam [Sp.] {2062.288} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 681-684.
+    Word Count: 1,157
+    Cross Reference
+
+    263. In proditionem Judae [Sp.] {2062.289} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 687-690.
+    Word Count: 776
+    Cross Reference
+
+    264. In illud: Memor fui dei [Sp.] {2062.290} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 689-698.
+    Word Count: 5,190
+    Cross Reference
+
+    265. In Rachelem et infantes [Sp.] {2062.291} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 697-700.
+    Word Count: 1,007
+    Cross Reference
+
+    266. In Herodem et infantes [Sp.] {2062.292} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 699-702.
+    Word Count: 1,244
+    Cross Reference
+
+    267. In Martham, Mariam et Lazarum [Sp.] {2062.293} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 701-706.
+    Word Count: 2,956
+    Cross Reference
+
+    268. In illud: Exeuntes pharisaei [Sp.] {2062.294} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 705-710.
+    Word Count: 2,014
+    Cross Reference
+
+    269. In meretricem et in pharisaeum [Sp.] {2062.295} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 709-712.
+    Word Count: 657
+    Cross Reference
+
+    270. In assumptionem domini nostri Jesu Christi [Sp.] {2062.296} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 711-712.
+    Word Count: 844
+    Cross Reference
+
+    271. In ramos palmarum [Sp.] {2062.297} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 715-720.
+    Word Count: 2,282
+    Breakdown
+    Cross Reference
+
+    272. In laudem sancti Joannis theologi (homilia 1) [Sp.] {2062.298} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 719-720.
+    Word Count: 690
+    Cross Reference
+
+    273. In laudem sancti Joannis theologi (homilia 2) [Sp.] {2062.299} (Click to select)
+    Encom., Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 719-722.
+    Word Count: 653
+    Cross Reference
+
+    274. In transfigurationem [Sp.] {2062.300} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 721-724.
+    Word Count: 920
+    Cross Reference
+
+    275. De siccitate [Sp.] {2062.301} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 723-726.
+    Word Count: 1,221
+    Cross Reference
+
+    276. In Jordanem fluvium [Sp.] {2062.302} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 725-728.
+    Word Count: 1,345
+    Cross Reference
+
+    277. In pharisaeum et meretricem [Sp.] {2062.303} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 727-734.
+    Word Count: 4,178
+    Cross Reference
+
+    278. In Christi natalem diem [Sp.] {2062.304} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 737-738.
+    Word Count: 1,078
+    Cross Reference
+
+    279. In illud: Ascendit dominus in templo [Sp.] {2062.305} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 739-742.
+    Word Count: 1,682
+    Cross Reference
+
+    280. In mediam pentecosten [Sp.] {2062.306} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 741-744.
+    Word Count: 863
+    Cross Reference
+
+    281. In Samaritanam, in die mediae pentecostes [Sp.] {2062.307} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 743-746.
+    Word Count: 1,031
+    Cross Reference
+
+    282. In illud: Pater si possibile est [Sp.] {2062.308} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 751-756.
+    Word Count: 2,527
+    Cross Reference
+
+    283. In illud: Homo quidam descendebat [Sp.] {2062.309} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 755-758.
+    Word Count: 1,056
+    Cross Reference
+
+    284. In natale sancti Joannis prophetae [Sp.] {2062.310} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 757-762.
+    Word Count: 2,951
+    Cross Reference
+
+    285. In natale domini nostri Jesu Christi [Sp.] (fort. auctore quodam Cappadoce) {2062.311} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 763-768.
+    Word Count: 1,913
+    Cross Reference
+
+    286. In Zacchaeum publicanum [Sp.] {2062.312} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 767-768.
+    Word Count: 988
+    Cross Reference
+
+    287. In centurionem [Sp.] {2062.313} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 769-772.
+    Word Count: 2,133
+    Cross Reference
+
+    288. In illud: Exiit qui seminat [Sp.] {2062.314} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 771-776.
+    Word Count: 1,885
+    Cross Reference
+
+    289. In drachmam et in illud: Homo quidam habebat duos filios [Sp.] {2062.315} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 781-784.
+    Word Count: 1,420
+    Cross Reference
+
+    290. De jejunio [Sp.] {2062.316} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 787-790.
+    Word Count: 1,251
+    Cross Reference
+
+    291. In filium viduae [Sp.] {2062.317} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 61, Paris: Migne, 1857-1866: 789-794.
+    Word Count: 1,832
+    Cross Reference
+
+    292. In publicanum et pharisaeum [Sp.] {2062.318} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 723-728.
+    Word Count: 2,046
+    Cross Reference
+
+    293. In ingressum sanctorum jejuniorum [Sp.] {2062.319} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 727-728.
+    Word Count: 458
+    Cross Reference
+
+    294. De jejunio, dominica quinta jejuniorum [Sp.] {2062.320} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 731-732.
+    Word Count: 802
+    Cross Reference
+
+    295. De jejunio [Sp.] {2062.321} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 731-738.
+    Word Count: 3,573
+    Cross Reference
+
+    296. De oratione [Sp.] {2062.322} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 737-740.
+    Word Count: 1,017
+    Cross Reference
+
+    297. In illud: Ignem veni mittere in terram [Sp.] {2062.323} (Click to select)
+    Exeget., Homilet.
+    A.D. 6
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 739-742.
+    Word Count: 1,608
+    Cross Reference
+
+    298. Admonitiones spirituales [Sp.] {2062.324} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 741-744.
+    Word Count: 1,400
+    Cross Reference
+
+    299. In principium jejuniorum [Sp.] {2062.325} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 745-748.
+    Word Count: 1,371
+    Cross Reference
+
+    300. In adorationem venerandae crucis [Sp.] {2062.326} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 747-754.
+    Word Count: 3,817
+    Cross Reference
+
+    301. In resurrectionem domini [Sp.] {2062.327} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 753-756.
+    Word Count: 773
+    Cross Reference
+
+    302. In parabolam Samaritani [Sp.] {2062.328} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 755-758.
+    Word Count: 1,651
+    Cross Reference
+
+    303. De jejunio [Sp.] {2062.329} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 757-760.
+    Word Count: 689
+    Cross Reference
+
+    304. De jejunio, de Davide [Sp.] {2062.330} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 759-764.
+    Word Count: 2,871
+    Cross Reference
+
+    305. In annuntiationem deiparae [Sp.] {2062.331} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 763-770.
+    Word Count: 2,989
+    Cross Reference
+
+    306. De eleemosyna [Sp.] {2062.332} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 769-770.
+    Word Count: 1,105
+    Cross Reference
+
+    307. De caritate [Sp.] {2062.333} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 769-772.
+    Word Count: 1,064
+    Cross Reference
+
+    308. In Lazarum (homilia 1) [Sp.] {2062.334} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 771-776.
+    Word Count: 2,069
+    Cross Reference
+
+    309. In Lazarum (homilia 2) [Sp.] {2062.335} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 775-778.
+    Word Count: 1,245
+    Cross Reference
+
+    310. In Lazarum (homilia 3) [Sp.] {2062.336} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 62, Paris: Migne, 1857-1866: 777-780.
+    Word Count: 607
+    Cross Reference
+
+    311. De mansuetudine sermo [Sp.] {2062.337} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 549-556.
+    Word Count: 2,282
+    Cross Reference
+
+    312. Eclogae i-xlviii ex diversis homiliis [Sp.] {2062.338} (Click to select)
+    Encom., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 567-902.
+    Word Count: 154,345
+    Cross Reference
+
+    313. Epistula ad Antiochum (epist. 233) [Sp.] {2062.344} (Click to select)
+    Epist.
+    P.G. Nicolopoulos, Αἱ εἰς τὸν Ἰωάννην τὸν Χρυσόστομον ἐσφαλμένως ἀποδιδόμεναι ἐπιστολαί, Athens: Tsiveriotes, 1973: 497.
+    Word Count: 144
+    Breakdown
+    Cross Reference
+
+    314. Oratio ante lectionem [Sp.] {2062.345} (Click to select)
+    Liturg.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 923-924.
+    Word Count: 81
+    Cross Reference
+
+    315. Oratio secunda [Sp.] {2062.346} (Click to select)
+    Eccl.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 923-928.
+    Word Count: 1,838
+    Cross Reference
+
+    316. In novam dominicam et in apostolum Thomam [Sp.] {2062.347} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 927-930.
+    Word Count: 2,033
+    Cross Reference
+
+    317. In sanctum Stephanum (homilia 1) [Sp.] {2062.348} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 929-932.
+    Word Count: 1,105
+    Cross Reference
+
+    318. In sanctum Stephanum (homilia 2) [Sp.] {2062.349} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 931-934.
+    Word Count: 370
+    Cross Reference
+
+    319. In sanctum Stephanum (homilia 3) [Sp.] {2062.350} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 933-934.
+    Word Count: 434
+    Cross Reference
+
+    320. De patientia et de consummatione huius saeculi [Sp.] {2062.351} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 63, Paris: Migne, 1857-1866: 937-942.
+    Word Count: 2,295
+    Cross Reference
+
+    321. De paenitentia et in lectionem de Davide et de uxore Uriae [Sp.] {2062.352} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 11-16.
+    Word Count: 1,996
+    Cross Reference
+
+    322. De iis qui in jejunio continenter vivunt [Sp.] {2062.353} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 15-16.
+    Word Count: 789
+    Cross Reference
+
+    323. Sermo exhortatorius de temperantia [Sp.] {2062.354} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 17-18.
+    Word Count: 585
+    Cross Reference
+
+    324. Quod grave sit dei clementiam contemnere [Sp.] {2062.355} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 17-18.
+    Word Count: 162
+    Cross Reference
+
+    325. In sanguinis fluxu laborantem [Sp.] {2062.356} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 17-20.
+    Word Count: 1,256
+    Cross Reference
+
+    326. Quod mari similis sit haec vita [Sp.] (fort. auctore quodam Cappadoce) {2062.357} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 19-22.
+    Word Count: 1,125
+    Cross Reference
+
+    327. In illud: Simile est regnum caelorum grano sinapis [Sp.] {2062.358} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 21-26.
+    Word Count: 1,466
+    Cross Reference
+
+    328. In illud: Si qua in Christo nova creatura [Sp.] {2062.359} (Click to select)
+    Exeget., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 25-34.
+    Word Count: 5,645
+    Cross Reference
+
+    329. In evangelii dictum et de virginitate [Sp.] {2062.360} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 37-44.
+    Word Count: 3,262
+    Cross Reference
+
+    330. De cognitione dei et in sancta theophania [Sp.] {2062.361} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 43-46.
+    Word Count: 968
+    Cross Reference
+
+    331. In lacum Genesareth et in sanctum Petrum apostolum [Sp.] {2062.362} (Click to select)
+    Hagiogr., Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 47-52.
+    Word Count: 2,400
+    Cross Reference
+
+    332. De eleemosyna [Sp.] {2062.363} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 433-444.
+    Word Count: 1,882
+    Cross Reference
+
+    333. Ad eos qui magni aestimant opes [Sp.] {2062.364} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 453-461.
+    Word Count: 1,389
+    Cross Reference
+
+    334. De precatione [Sp.] {2062.365} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 461-465.
+    Word Count: 1,039
+    Cross Reference
+
+    335. De virtute animi [Sp.] {2062.366} (Click to select)
+    Homilet.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 473-480.
+    Word Count: 1,287
+    Cross Reference
+
+    336. Ad Eudoxiam (epist. 1-7) [Sp.] {2062.367} (Click to select)
+    Epist.
+    P.G. Nicolopoulos, Αἱ εἰς τὸν Ἰωάννην τὸν Χρυσόστομον ἐσφαλμένως ἀποδιδόμεναι ἐπιστολαί, Athens: Tsiveriotes, 1973: 286, 287, 289-290, 295-297, 503-504, 507.
+    Word Count: 1,563
+    Cross Reference
+
+    337. Precatio in obsessos [Sp.] {2062.368} (Click to select)
+    Liturg.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 1061.
+    Word Count: 141
+    Cross Reference
+
+    338. Precatio [Sp.] {2062.369} (Click to select)
+    Liturg.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 1061-1064.
+    Word Count: 95
+    Cross Reference
+
+    339. Precatio [Sp.] {2062.370} (Click to select)
+    Liturg.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 1064.
+    Word Count: 109
+    Cross Reference
+
+    340. Precatio [Sp.] {2062.371} (Click to select)
+    Liturg.
+    J.-P. Migne, Patrologiae cursus completus (series Graeca) (MPG) 64, Paris: Migne, 1857-1866: 1064-1068.
+    Word Count: 845
+    Cross Reference
+
+    341. De Babyla contra Julianum et gentiles {2062.373} (Click to select)
+    Apol.
+    M. Schatkin, Critical edition of, and introduction to, St. John Chrysostom's "De sancto Babyla, contra Iulianum et gentiles" [Diss. Fordham 1967]: 1-106.
+    Word Count: 17,759
+    Cross Reference
+
+    342. De regressu {2062.374} (Click to select)
+    Homilet.
+    A. Wenger, "L'homélie de saint Jean Chrysostome `à son retour d'Asie'," Revue des études byzantines 19 (1961): 114-122.
+    Word Count: 1,475
+    Cross Reference
+
+    343. Epistula ad Cyriacum (epist. 125 + recensiones) {2062.376} (Click to select)
+    Epist.
+    P.G. Nicolopoulos, Αἱ εἰς τὸν Ἰωάννην τὸν Χρυσόστομον ἐσφαλμένως ἀποδιδόμεναι ἐπιστολαί, Athens: Tsiveriotes, 1973: 381-391, 395-411, 413-419, 423-449.
+    Word Count: 12,784
+    Breakdown
+    Cross Reference
+
+    344. De inani gloria et de educandis liberis {2062.378} (Click to select)
+    Eccl.
+    A.-M. Malingrey, Jean Chrysostome. Sur la vaine gloire et l'éducation des enfants [Sources chrétiennes 188. Paris: Éditions du Cerf, 1972]: 64-196.
+    Word Count: 9,163
+    Cross Reference
+
+    345. In illud: Apparuit gratia dei omnibus hominibus {2062.379} (Click to select)
+    Exeget., Homilet.
+    A. Wenger, "Une homélie inédite de Jean Chrysostome sur l'épiphanie," Revue des études byzantines 29 (1971): 123-135.
+    Word Count: 2,334
+    Cross Reference
+
+    346. Catechesis de juramento (series prima) {2062.380} (Click to select)
+    Homilet.
+    A. Papadopoulos-Kerameus, Varia graeca sacra, St. Petersburg: Kirschbaum, 1909: 154-166.
+    Word Count: 3,164
+    Cross Reference
+
+    347. Catechesis ultima ad baptizandos (series prima) {2062.381} (Click to select)
+    Homilet.
+    A. Papadopoulos-Kerameus, Varia graeca sacra, St. Petersburg: Kirschbaum, 1909: 166-175.
+    Word Count: 2,743
+    Cross Reference
+
+    348. Catecheses ad illuminandos 1-8 (series tertia) {2062.382} (Click to select)
+    Homilet.
+    A. Wenger, Jean Chrysostome. Huit catéchèses baptismales, 2nd edn. [Sources chrétiennes 50 bis. Paris: Éditions du Cerf, 1970]: 108-260.
+    Word Count: 25,295
+    Breakdown
+    Cross Reference
+
+    349. Fragmenta ex homiliis diversis {2062.384} (Click to select)
+    Homilet.
+    G. Bardy, "Les citations de saint Jean Chrysostome dans le florilège du cod. Vatican. graec. 1142," Revue de l'Orient Chrétien 23 (1922-1923): 430-431.
+    Word Count: 182
+    Breakdown
+    Cross Reference
+
+    350. In sanctam Pelagiam [Sp.] {2062.402} (Click to select)
+    Encom., Hagiogr., Homilet.
+    P. Franchi de' Cavalieri, Note agiografiche 8 [Studi e Testi 65. Città del Vaticano: Biblioteca Apostolica Vaticana, 1935]: 301-303.
+    Word Count: 657
+    Cross Reference
+
+    351. In natale domini et in sanctam Mariam genitricem [Sp.] {2062.413} (Click to select)
+    Homilet.
+    F.J. Leroy, "Une nouvelle homélie acrostiche sur la nativité," Muséon 77 (1964): 163-173.
+    Word Count: 1,704
+    Cross Reference
+
+    352. Visio Danielis [Sp.] {2062.414} (Click to select)
+    Homilet.
+    A. Vassiliev, Anecdota Graeco-Byzantina, vol. 1, Moscow: Imperial University Press, 1893: 33-38.
+    Word Count: 1,654
+    Cross Reference
+
+    353. De cruce et latrone [Sp.] (fort. auctore Severiano) {2062.415} (Click to select)
+    Homilet.
+    A. Wenger, "Le sermon lxxx de la collection augustinienne de Mai restitué à Sévérien de Gabala," Augustinus Magister. Congrès international augustinien 1 (1954): 177-182.
+    Word Count: 1,606
+    Cross Reference
+
+    354. In infirmos [Sp.] {2062.417} (Click to select)
+    Homilet.
+    A. Vassiliev, Anecdota Graeco-Byzantina, vol. 1, Moscow: Imperial University Press, 1893: 323-327.
+    Word Count: 1,304
+    Cross Reference
+
+    355. In omnes sanctos [Sp.] {2062.418} (Click to select)
+    Encom., Hagiogr.
+    C.I. Dyobouniotes, "Ὁ ὑπ’ ἀριθμ. 108 κῶδιξ τῆς Ἱ. Συνόδου τῆς Ἐκκλησίας τῆς Ἑλλάδος," Ἐκκλησιαστικὸς Φάρος 9 (1912): 303-305.
+    Word Count: 808
+    Cross Reference
+
+    356. In magnam feriam v [Sp.] {2062.419} (Click to select)
+    Homilet.
+    R. Klostermann and R. Trautmann, "Noch ein griechischer Text zum Codex Suprasliensis," Zeitschrift für slavische Philologie 13 (1936): 338-341.
+    Word Count: 617
+    Cross Reference
+
+    357. De meretrice [Sp.] {2062.420} (Click to select)
+    Homilet.
+    R. Abicht, "Quellennachweise zum Codex Suprasliensis," Archiv für slavische Philologie 16 (1894): 149-153.
+    Word Count: 1,212
+    Cross Reference
+
+    358. Epistula ad abbatem [Sp.] {2062.421} (Click to select)
+    Epist.
+    P.G. Nicolopoulos, Αἱ εἰς τὸν Ἰωάννην τὸν Χρυσόστομον ἐσφαλμένως ἀποδιδόμεναι ἐπιστολαί, Athens: Tsiveriotes, 1973: 455-478.
+    Word Count: 3,325
+    Cross Reference
+
+    359. In sancta lumina sive In baptismum et in tentationem [Sp.] {2062.422} (Click to select)
+    Alt. Title: Τοῦ αὐτοῦ [εἰς τὸ βάπτισμα καὶ εἰς τὸν πειρασμὸν καὶ εἰς τὸν λῃστὴν καὶ] κατὰ Ἀρειανῶν, καὶ τί νοητέον τὸ κλητός, καὶ εἴς τινα ῥητὰ τοῦ ἀποστόλου ἑρμηνεία
+    Homilet.
+    K.-H. Uthemann, Die Pseudo-Chrysostomische Predigt In Baptismum et Tentationem (BHG 1936m; CPG 4735) [Abhandlungen der Heidelberger Akademie der Wissenschaften. Philosophisch-historische Klasse 3. Heidelberg: Universitätsverlag C. Winter, 1994]: 122-137.
+    Word Count: 7,352
+    Cross Reference
+
+    360. In nativitatem Joannis Baptistae [Sp.] {2062.423} (Click to select)
+    Hagiogr., Homilet.
+    F. Halkin, Inédits byzantins d'Ochrida, Candie et Moscou [Subsidia hagiographica 38. Brussels: Société des Bollandistes, 1963]: 87-94.
+    Word Count: 1,372
+    Cross Reference
+
+    361. In Christi ascensionem [Sp.] {2062.424} (Click to select)
+    Homilet.
+    C. Baur, "Drei unedierte Festpredigten aus der Zeit der nestorianischen Streitigkeiten," Traditio 9 (1953): 122-124.
+    Word Count: 557
+    Cross Reference
+
+    362. In illud: Dominus regnavit et in illud: Dies diei dicit verbum [Sp.] {2062.425} (Click to select)
+    Exeget., Homilet.
+    F. Nau, "Le texte grec de trois homélies de Nestorius, et une homélie inédite sur le Psaume 96," Revue de l'Orient Chrétien 15 (1910): 120-124.
+    Word Count: 1,170
+    Cross Reference
+
+    363. In assumptionem domini [Sp.] {2062.426} (Click to select)
+    Liturg.
+    C. Baur, "Drei unedierte Festpredigten aus der Zeit der nestorianischen Streitigkeiten," Traditio 9 (1953): 116-119.
+    Word Count: 886
+    Cross Reference
+
+    364. In resurrectionem domini [Sp.] {2062.427} (Click to select)
+    Homilet.
+    M. Aubineau, Homélies pascales [Sources chrétiennes 187. Paris: Éditions du Cerf, 1972]: 318-324.
+    Word Count: 477
+    Cross Reference
+
+    365. Deprecatio [Sp.] {2062.428} (Click to select)
+    Liturg.
+    M. Richard, "Témoins grecs des fragments xiii et xv de Méliton de Sardes," Muséon 85 (1972): 318-321.
+    Word Count: 797
+    Cross Reference
+
+    366. Epitimia lxxiii [Sp.] {2062.429} (Click to select)
+    Eccl., Jurisprud.
+    J.B. Pitra, Spicilegium Solesmense, vol. 4, Paris: Didot, 1858: 461-464.
+    Word Count: 1,299
+    Cross Reference
+
+    367. In illud: Nolite thesaurizare vobis thesauros in terra [Sp.] {2062.430} (Click to select)
+    Exeget., Homilet.
+    Hippolytus Monachus, "Δύο λόγοι ἐπ’ ὀνόματι τοῦ Ἁγ. Ἰωάννου τοῦ Χρυσοστόμου," Νέα Σιών 20 (1925): 629-633.
+    Word Count: 1,389
+    Cross Reference
+
+    368. In catenas sancti Petri [Sp.] {2062.432} (Click to select)
+    Exeget., Homilet.
+    E. Batareikh, "Discours inédit sur les chaînes de S. Pierre attribué à S. Jean Chrysostome," Χρυσοστομικά 3 (1908): 978-1005.
+    Word Count: 6,630
+    Cross Reference
+
+    369. Stichoi [Sp.] {2062.433} (Click to select)
+    Poem.
+    J.B. Pitra, Iuris ecclesiastici Graecorum historia et monumenta, vol. 2, Rome: Congregatio de Propaganda Fide, 1868: 170.
+    Word Count: 82
+    Cross Reference
+
+    370. In passionem salvatoris nostri Jesu Christi [Sp.] {2062.434} (Click to select)
+    Homilet.
+    Hippolytus Monachus, "Ἐπ’ ὀνόματι Ἰωάννου τοῦ Χρυσοστόμου φερόμενοι λόγοι," Νέα Σιών 18 (1923): 691-692.
+    Word Count: 386
+    Cross Reference
+
+    371. In ramos palmarum [Sp.] {2062.435} (Click to select)
+    Homilet.
+    Hippolytus Monachus, "Ἐπ’ ὀνόματι Ἰωάννου τοῦ Χρυσοστόμου φερόμενοι λόγοι," Νέα Σιών 18 (1923): 309-313.
+    Word Count: 1,252
+    Cross Reference
+
+    372. In synaxim incorporalium [Sp.] {2062.436} (Click to select)
+    Hagiogr., Homilet.
+    F. Halkin, Inédits byzantins d'Ochrida, Candie et Moscou [Subsidia hagiographica 38. Brussels: Société des Bollandistes, 1963]: 133-146.
+    Word Count: 2,131
+    Cross Reference
+
+    373. Encomium in sanctum Joannem evangelistam [Sp.] {2062.437} (Click to select)
+    Encom., Hagiogr., Homilet.
+    Hippolytus Monachus, "Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς Ἰωάννην τὸν εὐαγγελιστήν," Νέα Σιών 17 (1922): 665-667, 725-728.
+    Word Count: 1,660
+    Cross Reference
+
+    374. In sanctum pascha [Sp.] {2062.438} (Click to select)
+    Homilet.
+    C. Baur, "Drei unedierte Festpredigten aus der Zeit der nestorianischen Streitigkeiten," Traditio 9 (1953): 108-110.
+    Word Count: 1,039
+    Cross Reference
+
+    375. Oratio de hypapante [Sp.] {2062.442} (Click to select)
+    Homilet.
+    E. Bickersteth, "Edition and translation of a hypapante homily ascribed to John Chrysostom," Orientalia Christiana Periodica 32 (1966): 56-76.
+    Word Count: 3,045
+    Cross Reference
+
+    376. In illud: Credidi propter quod locutus sum [Sp.] {2062.443} (Click to select)
+    Exeget., Homilet.
+    S. Haidacher, "Drei unedierte Chrysostomus-Texte einer Baseler Handschrift," Zeitschrift für katholische Theologie 31 (1907): 351-358.
+    Word Count: 1,879
+    Cross Reference
+
+    377. In Christi natalem [Sp.] {2062.444} (Click to select)
+    Homilet., Poem.
+    G. Mercati, "Antica omelia metrica Εἰς τὴν Χριστοῦ γένναν," Biblica 1 (1920): 84-90.
+    Word Count: 503
+    Cross Reference
+
+    378. Encomium in sanctos martyres [Sp.] {2062.445} (Click to select)
+    Encom., Hagiogr., Homilet.
+    M. Aubineau, "Une homélie grecque inédite `sur tous les martyrs' attribuée à Jean Chrysostome," Forma futuri. Studi in onore del Cardinale Michele Pellegrino (1975): 622-623.
+    Word Count: 300
+    Cross Reference
+
+    379. Encomium in sanctum Polycarpum {2062.446} (Click to select)
+    Encom., Hagiogr.
+    A. Hilgenfeld, "Des Chrysostomus Lobrede auf Polykarp," Zeitschrift für wissenschaftliche Theologie 45 (1902): 570-572.
+    Word Count: 553
+    Cross Reference
+
+    380. Oratio de nativitate [Sp.] {2062.450} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 29-32.
+    Word Count: 972
+    Cross Reference
+
+    381. Oratio de epiphania [Sp.] {2062.452} (Click to select)
+    Homilet.
+    A. Wenger, "Une homélie inédite (de Sévérien de Gabala?) sur l'épiphanie," Analecta Bollandiana 95 (1977): 81-90.
+    Word Count: 1,336
+    Cross Reference
+
+    382. Oratio in exaltationem crucis [Sp.] {2062.460} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 81-83.
+    Word Count: 1,050
+    Cross Reference
+
+    383. De nativitate [Sp.] {2062.463} (Click to select)
+    Homilet.
+    S.J. Voicu, "Une homélie pseudo-chrysostomienne pour la Noël," Byzantion 43 (1973): 486-494.
+    Word Count: 788
+    Cross Reference
+
+    384. In sanctam theophaniam [Sp.] {2062.472} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 217-220.
+    Word Count: 947
+    Cross Reference
+
+    385. In nativitatem Christi (fragmenta duo) [Sp.] {2062.473} (Click to select)
+    Homilet.
+    M. Jugie, "La mort et l'assomption de la sainte Vierge dans la tradition des cinq premiers siècles," Échos d'Orient 25 (1926): 134, adn. 1.2.
+    Word Count: 72
+    Cross Reference
+
+    386. In illud: Si enim dimiseritis hominibus peccata eorum [Sp.] {2062.475} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 226-230.
+    Word Count: 1,510
+    Cross Reference
+
+    387. Quod deus superbis resistat [Sp.] {2062.480} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 239-243.
+    Word Count: 1,457
+    Cross Reference
+
+    388. Oratio de nativitate [Sp.] {2062.483} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 250-252.
+    Word Count: 542
+    Cross Reference
+
+    389. In sanctum Paulum apostolum (excerptum) {2062.484} (Click to select)
+    Homilet.
+    M. Jugie, L. Petit, and X.A. Siderides, Oeuvres complètes de Gennade Scholarios, vol. 3, Paris, 1930: 427-430.
+    Word Count: 1,159
+    Cross Reference
+
+    390. De nativitate [Sp.] {2062.485} (Click to select)
+    R.F. Regtuit, J.M. Tevel, and K.-H. Uthemann, Homiliae Pseudo-Chrysostomicae., vol. 1, Turnhout: Brepols, 1994: 253-256.
+    Word Count: 910
+    Cross Reference
+
+    391. De laudibus sancti Pauli apostoli (homiliae 1-7) {2062.486} (Click to select)
+    Encom., Hagiogr., Homilet.
+    A. Piedagnel, Jean Chrysostome. Panégyriques de S. Paul [Sources chrétiennes 300. Paris: Éditions du Cerf, 1982]: 112-320.
+    Word Count: 15,889
+    Cross Reference
+
+    392. De sancta Thecla martyre (e cod. Athon. Panteleimon 58) [Sp.] {2062.488} (Click to select)
+    Encom., Homilet.
+    M. Aubineau, "Le panégyrique de Thècle attribué à Jean Chrysostome: la fin retrouvée d'un texte mutilé," Analecta Bollandiana 93 (1975): 351-352.
+    Word Count: 181
+    Cross References
+
+    393. De nativitate Joannis Baptistae [Sp.] {2062.489} (Click to select)
+    Hagiogr., Homilet.
+    C. Datema, "An unedited homily of Ps. Chrysostom on the birth of John the Baptist," Byzantion 52 (1982): 76-80.
+    Word Count: 1,187
+    Cross Reference
+
+    394. In sanctum pascha [Sp.] {2062.491} (Click to select)
+    Homilet.
+    P. Allen and C. Datema, "Text and tradition of two Easter homilies of Ps. Chrysostom," Jahrbuch der Österreichischen Byzantinistik 30 (1981): 98-102.
+    Word Count: 1,050
+    Cross Reference
+
+    395. In resurrectionem domini [Sp.] {2062.492} (Click to select)
+    Homilet.
+    P. Allen and C. Datema, "Leontius, presbyter of Constantinople - a compiler?," Jahrbuch der Österreichischen Byzantinistik 29 (1980): 12-18.
+    Word Count: 1,422
+    Cross Reference
+
+    396. In resurrectionem domini B [Sp.] {2062.493} (Click to select)
+    Homilet.
+    P. Allen and C. Datema, "Text and tradition of two Easter homilies of Ps. Chrysostom," Jahrbuch der Österreichischen Byzantinistik 30 (1981): 94-97.
+    Word Count: 1,205
+    Cross Reference
+
+    397. In operarios undecimae horae [Sp.] {2062.494} (Click to select)
+    Homilet., Theol.
+    S.J. Voicu, "In operarios undecimae horae: una omelia pseudocrisostomica arianeggiante," Augustinianum 18 (1978): 353-356.
+    Word Count: 1,528
+    Cross Reference
+
+    398. In Ecclesiasten [Sp.] {2062.495} (Click to select)
+    Exeget.
+    S. Leanza, Procopii Gazaei catena in Ecclesiasten necnon Pseudochrysostomi commentarius in eundem Ecclesiasten [Corpus Christianorum. Series Graeca 4. Turnhout: Brepols, 1978]: 67-97.
+    Word Count: 6,727
+    Cross Reference
+
+    399. Sermo cum presbyter fuit ordinatus {2062.496} (Click to select)
+    Homilet.
+    A.-M. Malingrey, Jean Chrysostome. Sur le sacerdoce [Sources chrétiennes 272. Paris: Éditions du Cerf, 1980]: 388-418.
+    Word Count: 2,701
+    Cross Reference
+
+    400. In Isaiam {2062.497} (Click to select)
+    Exeget.
+    J. Dumortier, Jean Chrysostome. Commentaire sur Isaïe [Sources chrétiennes 304. Paris: Éditions du Cerf, 1983]: 36-356.
+    Word Count: 37,147
+    Cross Reference
+
+    401. In illud: Vidi dominum (homiliae 1-6) {2062.498} (Click to select)
+    Exeget., Homilet.
+    J. Dumortier, Jean Chrysostome. Homélies sur Ozias [Sources chrétiennes 277. Paris: Éditions du Cerf, 1981]: 42-228.
+    Word Count: 18,874
+    Cross Reference
+
+    402. Epistula ad Caesarium [Sp.] {2062.499} (Click to select)
+    Eccl., Epist.
+    P.G. Nicolopoulos, Αἱ εἰς τὸν Ἰωάννην τὸν Χρυσόστομον ἐσφαλμένως ἀποδιδόμεναι ἐπιστολαί, Athens: Tsiveriotes, 1973: 513-518.
+    Word Count: 717
+    Cross Reference
+
+    403. In Psalmum 50 (homilia 1) [Sp.] (P. Berol. 6788 A) {2062.500} (Click to select)
+    Exeget., Homilet.
+    K. Treu, "Ein Berliner Chrysostomos-Papyrus (P. 6788 A)," Studia patristica 12 (1975): 74-75.
+    Word Count: 54
+    Cross References
+
+    404. De nativitate Joannis Baptistae [Sp.] {2062.502} (Click to select)
+    Homilet.
+    C. Datema, "Another unedited homily of Ps. Chrysostom on the birth of John the Baptist," Byzantion 53 (1983): 480-490.
+    Word Count: 1,320
+    Cross Reference
+
+    405. Commentarius in Job {2062.505} (Click to select)
+    Exeget., Homilet.
+    D. Hagedorn and U. Hagedorn, Johannes Chrysostomos. Kommentar zu Hiob [Patristische Texte und Studien 35. Berlin: De Gruyter, 1990]: 1-200.
+    Word Count: 46,794
+    Cross Reference
+
+    406. Laudatio Pauli apostoli {2062.506} (Click to select)
+    Encom.
+    A.D. 4-5
+    K.-H. Uthemann, "Ein Enkomion zum Fest des hl. Paulus am 28. Dezember," in A. Schoors and P. van Deun (eds), Philohistôr: Miscellanea in honorem Caroli Laga septuagenarii [Louvain: Peeters, 1994]: 126-134.
+    Word Count: 1,694
+    Cross Reference
+
+    407. Excerptum ex Adversus Judaeos (orat. 2) {2062.507} (Click to select)
+    Homilet.
+    R. Brändle, M. Heimgartner, and W. Pradels, "Das bisher vermisste Textstück in Johannes Chrysostomus, Adversus Judaeos, Oratio 2," Zeitschrift für antikes Christentum 5 (2001): 30-48.
+    Word Count: 3,322
+    Cross References
+
+    408. Homiliae in assumptionem domini [Sp.] (fort. auctore Severiano) {2062.508} (Click to select)
+    Homilet., Theol.
+    E. S. Chatzoglou-Balta, "Ἑξ λόγοι εἰς τὴν Ἀνάληψιν τοῦ Κυρίου ἐπιγραφόμενοι ἐπ’ ὀνόματι τοῦ Ἁγίου Ἰωάννου τοῦ Χρυσοστόμου," Ἐπετηρὶς Ἑταιρείας Βυζαντινῶν Σπουδῶν 53 (2007-2009): 333-371.
+    Word Count: 10,934
+    Breakdown
+    Cross Reference
+
+    409. In Juventinum et Maximum martyres {2062.509} (Click to select)
+    Encom., Hagiogr., Homilet.
+    P. Allen and N. Rambault, Jean Chrysostom. Panégyriques de martyrs, tome I [Sources chrétiennes 595. Paris: Éditions du Cerf, 2018]: 178-210 (even pages).
+    Word Count: 2,126
+    Breakdown
+    Other Edition
+    Cross Reference
+
+    410. In sanctum Romanum (homilia 1) {2062.510} (Click to select)
+    Encom., Hagiogr.
+    P. Allen and N. Rambault, Jean Chrysostom. Panégyriques de martyrs, tome I [Sources chrétiennes 595. Paris: Éditions du Cerf, 2018]: 212-246 (even pages).
+    Word Count: 2,573
+    Breakdown
+    Other Edition
+    Cross Reference
+
+    411. In sanctum Julianum martyrem {2062.511} (Click to select)
+    Encom., Hagiogr.
+    P. Allen and N. Rambault, Jean Chrysostom. Panégyriques de martyrs, tome I [Sources chrétiennes 595. Paris: Éditions du Cerf, 2018]: 248-292 (even pages).
+    Word Count: 3,883
+    Breakdown
+    Other Edition
+    Cross Reference
+
+    412. In sanctum Barlaam martyrem {2062.512} (Click to select)
+    Encom., Hagiogr.
+    P. Allen and N. Rambault, Jean Chrysostom. Panégyriques de martyrs, tome I [Sources chrétiennes 595. Paris: Éditions du Cerf, 2018]: 294-330 (even pages).
+    Word Count: 2,758
+    Breakdown
+    Other Edition
+    Cross Reference
+
+    413. In martyres Aegyptios {2062.513} (Click to select)
+    Encom., Hagiogr.
+    P. Allen and N. Rambault, Jean Chrysostom. Panégyriques de martyrs, tome I [Sources chrétiennes 595. Paris: Éditions du Cerf, 2018]: 332-352 (even pages).
+    Word Count: 1,702
+    Breakdown
+    Other Edition
+    Cross Reference

@@ -1,0 +1,413 @@
+    Ad Theodorum lapsum {001}
+    Ad Theodorum lapsum {002}
+    Adversus oppugnatores vitae monasticae {003}
+    Ad Demetrium de compunctione {004}
+    Ad Stelechium de compunctione {005}
+    Ad Stagirium a daemone vexatum {006}
+    Contra eos qui subintroductas habent virgines {007}
+    Quod regulares feminae viris cohabitare non debeant {008}
+    De virginitate {009}
+    Ad viduam juniorem {010}
+    De non iterando conjugio {011}
+    De incomprehensibili dei natura {012}
+    De beato Philogonio {014}
+    De consubstantiali {015}
+    De petitione matris filiorum Zebedaei {016}
+    In quatriduanum Lazarum {017}
+    De Christi precibus {018}
+    Contra Anomoeos {019}
+    De Christi divinitate {020}
+    Adversus Judaeos {021}
+    In Kalendas {022}
+    De Lazaro {023}
+    Ad populum Antiochenum {024}
+    Ad illuminandos catecheses 1-2 {025}
+    De diabolo tentatore {026}
+    De paenitentia {027}
+    In diem natalem {028}
+    De baptismo Christi {029}
+    De proditione Judae {030}
+    De coemeterio et de cruce {031}
+    De cruce et latrone {032}
+    De cruce et latrone {033}
+    De resurrectione mortuorum {034}
+    Adversus ebriosos et de resurrectione domini nostri Jesu Christi {035}
+    In ascensionem domini nostri Jesu Christi {036}
+    De sancta pentecoste {037}
+    De sancto Meletio Antiocheno {039}
+    In sanctum Lucianum martyrem {040}
+    De sancto hieromartyre Babyla {041}
+    De sancta Pelagia virgine et martyre {043}
+    In sanctum Ignatium martyrem {044}
+    In sanctum Eustathium Antiochenum {045}
+    De Maccabeis {047}
+    De sanctis Bernice et Prosdoce {048}
+    In quatriduanum Lazarum {049}
+    De sanctis martyribus {050}
+    Non esse ad gratiam concionandum {051}
+    Homilia in martyres {052}
+    De sancta Droside martyre {055}
+    De sancto hieromartyre Phoca {057}
+    De sanctis martyribus {058}
+    De terrae motu {059}
+    De fato et providentia {060}
+    De decem millium talentorum debitore {061}
+    In illud: Pater, si possibile est, transeat {062}
+    In paralyticum demissum per tectum {063}
+    In principium Actorum {064}
+    De mutatione nominum {065}
+    De gloria in tribulationibus {066}
+    In illud: Diligentibus deum omnia cooperantur in bonum {067}
+    In illud: Si esurierit inimicus {068}
+    In illud: Salutate Priscillam et Aquilam {069}
+    In illud: Propter fornicationes autem unusquisque suam uxorem habeat {070}
+    De libello repudii {071}
+    Quales ducendae sint uxores {072}
+    In dictum Pauli: Nolo vos ignorare {073}
+    In dictum Pauli: Oportet haereses esse {074}
+    De eleemosyna {075}
+    In illud: Habentes eundem spiritum {076}
+    In illud: Utinam sustineretis modicum {077}
+    De profectu evangelii {078}
+    In illud: Vidua eligatur {079}
+    In Heliam et viduam {080}
+    De futurae vitae deliciis {081}
+    Peccata fratrum non evulganda {082}
+    Non esse desperandum {083}
+    In illud: In faciem ei restiti {084}
+    De sacerdotio {085}
+    Quod nemo laeditur nisi a se ipso {086}
+    Ad eos qui scandalizati sunt {087}
+    Epistulae ad Olympiadem {088}
+    In Eutropium {089}
+    Cum Saturninus et Aurelianus acti essent in exsilium {090}
+    Sermo antequam iret in exsilium {091}
+    Sermo cum iret in exsilium {092}
+    Post reditum a priore exsilio {093}
+    Ad Innocentium papam {094}
+    Ad Innocentium papam {095}
+    Epistula ad episcopos, presbyteros et diaconos {096}
+    Epistulae 18-242 {097}
+    Laus Diodori episcopi {098}
+    In sanctum pascha {099}
+    In ascensionem {100}
+    De Chananaea {101}
+    In ascensionem {103}
+    In ascensionem {104}
+    In ascensionem {105}
+    In ascensionem {106}
+    In pentecosten {107}
+    In pentecosten {108}
+    De adoratione pretiosae crucis {110}
+    De confessione pretiosae crucis {111}
+    In Genesim {112}
+    In Genesim {113}
+    De Anna {114}
+    De Davide et Saule {115}
+    Comparatio regis et monachi {116}
+    Ascetam facetiis uti non debere {117}
+    De jejunio et eleemosyna {118}
+    De sacerdotio {119}
+    Christi discipulum benignum esse debere {120}
+    De fugienda simulata specie {121}
+    Contra Judaeos, gentiles et haereticos et in illud: Vocatus est Jesus ad nuptias {122}
+    De sancta trinitate {123}
+    In Romanum martyrem {124}
+    In proditionem Judae {125}
+    In Bassum martyrem {126}
+    In sanctos Petrum et Heliam {127}
+    De beato Abraham {128}
+    De sancta Thecla martyre {129}
+    De precatione {130}
+    In oraculum Zachariae redditum {131}
+    In laudem conceptionis sancti Joannis Baptistae {132}
+    In annuntiationem beatae virginis {133}
+    In illud: Exiit edictum {134}
+    In sanctum Joannem praecursorem {135}
+    In sanctam theophaniam seu baptismum Christi {136}
+    De occursu domini, de deipara et Symeone {137}
+    In sancta et magna parasceve {138}
+    In venerabilem crucem sermo {139}
+    In triduanam resurrectionem domini {140}
+    De angusta porta et in orationem dominicam {141}
+    Homilia de capto Eutropio {142}
+    Expositiones in Psalmos {143}
+    In illud: Ne timueritis cum dives factus fuerit homo {144}
+    In Psalmum 145 {145}
+    In illud Isaiae: Ego dominus deus feci lumen {148}
+    In illud: Domine, non est in homine {149}
+    De prophetiarum obscuritate {150}
+    In illud: Hoc scitote quod in novissimis diebus {151}
+    In Matthaeum {152}
+    In Joannem {153}
+    In Acta apostolorum {154}
+    In epistulam ad Romanos {155}
+    In epistulam i ad Corinthios {156}
+    In epistulam ii ad Corinthios {157}
+    In epistulam ad Galatas commentarius {158}
+    In epistulam ad Ephesios {159}
+    In epistulam ad Philippenses {160}
+    In epistulam ad Colossenses {161}
+    In epistulam i ad Thessalonicenses {162}
+    In epistulam ii ad Thessalonicenses {163}
+    In epistulam i ad Timotheum {164}
+    In epistulam ii ad Timotheum {165}
+    In epistulam ad Titum {166}
+    In epistulam ad Philemonem {167}
+    In epistulam ad Hebraeos {168}
+    Homilia dicta postquam reliquiae martyrum {169}
+    Homilia dicta praesente imperatore {170}
+    Quod frequenter conveniendum sit {171}
+    Adversus eos qui non adfuerant {172}
+    De studio praesentium {173}
+    Adversus catharos {174}
+    Contra ludos et theatra {175}
+    Homilia dicta in templo sanctae Anastasiae {176}
+    Homilia habita postquam presbyter Gothus concionatus fuerat {177}
+    In illud: Pater meus usque modo operatur {178}
+    In illud: Messis quidem multa {179}
+    In illud: Filius ex se nihil facit {180}
+    De Eleazaro et septem pueris {181}
+    In poenitentiam Ninivitarum {182}
+    Fragmenta in Job {184}
+    Fragmenta in Proverbia {185}
+    Fragmenta in Jeremiam {186}
+    Fragmenta in epistulas catholicas {187}
+    In Psalmum 50 {196}
+    Prooemia in Psalmos {197}
+    In illud: Verumtamen frustra conturbatur {198}
+    In Psalmum 50 {199}
+    In Psalmum 50 {200}
+    In Psalmum 75 {201}
+    De turture seu de ecclesia sermo {202}
+    In Psalmum 92 {203}
+    In Psalmum 94 {204}
+    In Psalmum 100 {205}
+    In Psalmos 101-107 {206}
+    In Psalmum 118 {207}
+    In Psalmum 139 {208}
+    Interpretatio in Danielem prophetam {209}
+    De Melchisedech {210}
+    De perfecta caritate {211}
+    De continentia {212}
+    Synopsis scripturae sacrae {213}
+    In natalem Christi diem {214}
+    In Genesim {216}
+    Contra theatra {217}
+    In Eliam prophetam {219}
+    De Joseph et de castitate {220}
+    De Susanna {221}
+    In decollationem sancti Joannis {224}
+    In praecursorem domini {225}
+    In Petrum et Paulum {226}
+    In duodecim apostolos {227}
+    In sanctum Thomam apostolum {228}
+    In sanctum Stephanum protomartyrem {229}
+    In illud: Sufficit tibi gratia mea {230}
+    In parabolam de filio prodigo {231}
+    In saltationem Herodiadis {232}
+    In illud: Collegerunt Judaei {233}
+    In decem virgines {234}
+    In Samaritanam {235}
+    De pseudoprophetis {237}
+    De circo {238}
+    In illud: Attendite ne eleemosynam vestram faciatis coram hominibus {239}
+    In principium indictionis, in martyres {240}
+    In illud: Simile est regnum caelorum patri familias {241}
+    In parabolam de ficu {242}
+    De pharisaeo {243}
+    De Lazaro et divite {244}
+    In publicanum et pharisaeum {245}
+    In Joannem theologum {247}
+    De negatione Petri {248}
+    In secundum domini adventum {249}
+    Interpretatio orationis Pater noster {250}
+    In principium indictionis {251}
+    In venerandum crucem {252}
+    In exaltationem venerandae crucis {253}
+    In sanctum Stephanum {254}
+    In mediam hebdomadam jejuniorum {255}
+    In ramos palmarum {256}
+    Contra haereticos et in sanctam deiparam {257}
+    In latronem {258}
+    Sermo catecheticus in pascha {259}
+    In sanctum pascha {260}
+    In sanctum pascha {261}
+    In sanctum pascha {262}
+    In sanctum pascha {263}
+    In sanctum pascha {264}
+    In sanctum pascha {265}
+    In sanctum pascha {266}
+    In synaxim archangelorum {267}
+    De paenitentia {268}
+    De paenitentia {269}
+    De paenitentia {270}
+    De paenitentia {271}
+    De eleemosyna {272}
+    De jejunio {273}
+    De patientia {274}
+    De patientia {275}
+    De salute animae {276}
+    In catechumenos {277}
+    De corruptoribus virginum {278}
+    Contra haereticos {279}
+    De eleemosyna {280}
+    Epistula ad monachos {281}
+    In annuntiationem sanctissimae deiparae {282}
+    De remissione peccatorum {283}
+    De non judicando proximo {284}
+    De paenitentia {285}
+    De spe {286}
+    De caritate {287}
+    Caritatem secundum deum rem esse deo dignam {288}
+    In proditionem Judae {289}
+    In illud: Memor fui dei {290}
+    In Rachelem et infantes {291}
+    In Herodem et infantes {292}
+    In Martham, Mariam et Lazarum {293}
+    In illud: Exeuntes pharisaei {294}
+    In meretricem et in pharisaeum {295}
+    In assumptionem domini nostri Jesu Christi {296}
+    In ramos palmarum {297}
+    In laudem sancti Joannis theologi {298}
+    In laudem sancti Joannis theologi {299}
+    In transfigurationem {300}
+    De siccitate {301}
+    In Jordanem fluvium {302}
+    In pharisaeum et meretricem {303}
+    In Christi natalem diem {304}
+    In illud: Ascendit dominus in templo {305}
+    In mediam pentecosten {306}
+    In Samaritanam, in die mediae pentecostes {307}
+    In illud: Pater si possibile est {308}
+    In illud: Homo quidam descendebat {309}
+    In natale sancti Joannis prophetae {310}
+    In natale domini nostri Jesu Christi {311}
+    In Zacchaeum publicanum {312}
+    In centurionem {313}
+    In illud: Exiit qui seminat {314}
+    In drachmam et in illud: Homo quidam habebat duos filios {315}
+    De jejunio {316}
+    In filium viduae {317}
+    In publicanum et pharisaeum {318}
+    In ingressum sanctorum jejuniorum {319}
+    De jejunio, dominica quinta jejuniorum {320}
+    De jejunio {321}
+    De oratione {322}
+    In illud: Ignem veni mittere in terram {323}
+    Admonitiones spirituales {324}
+    In principium jejuniorum {325}
+    In adorationem venerandae crucis {326}
+    In resurrectionem domini {327}
+    In parabolam Samaritani {328}
+    De jejunio {329}
+    De jejunio, de Davide {330}
+    In annuntiationem deiparae {331}
+    De eleemosyna {332}
+    De caritate {333}
+    In Lazarum {334}
+    In Lazarum {335}
+    In Lazarum {336}
+    De mansuetudine sermo {337}
+    Eclogae i-xlviii ex diversis homiliis {338}
+    Epistula ad Antiochum {344}
+    Oratio ante lectionem {345}
+    Oratio secunda {346}
+    In novam dominicam et in apostolum Thomam {347}
+    In sanctum Stephanum {348}
+    In sanctum Stephanum {349}
+    In sanctum Stephanum {350}
+    De patientia et de consummatione huius saeculi {351}
+    De paenitentia et in lectionem de Davide et de uxore Uriae {352}
+    De iis qui in jejunio continenter vivunt {353}
+    Sermo exhortatorius de temperantia {354}
+    Quod grave sit dei clementiam contemnere {355}
+    In sanguinis fluxu laborantem {356}
+    Quod mari similis sit haec vita {357}
+    In illud: Simile est regnum caelorum grano sinapis {358}
+    In illud: Si qua in Christo nova creatura {359}
+    In evangelii dictum et de virginitate {360}
+    De cognitione dei et in sancta theophania {361}
+    In lacum Genesareth et in sanctum Petrum apostolum {362}
+    De eleemosyna {363}
+    Ad eos qui magni aestimant opes {364}
+    De precatione {365}
+    De virtute animi {366}
+    Ad Eudoxiam {367}
+    Precatio in obsessos {368}
+    Precatio {369}
+    Precatio {370}
+    Precatio {371}
+    De Babyla contra Julianum et gentiles {373}
+    De regressu {374}
+    Epistula ad Cyriacum {376}
+    De inani gloria et de educandis liberis {378}
+    In illud: Apparuit gratia dei omnibus hominibus {379}
+    Catechesis de juramento {380}
+    Catechesis ultima ad baptizandos {381}
+    Catecheses ad illuminandos 1-8 {382}
+    Fragmenta ex homiliis diversis {384}
+    In sanctam Pelagiam {402}
+    In natale domini et in sanctam Mariam genitricem {413}
+    Visio Danielis {414}
+    De cruce et latrone {415}
+    In infirmos {417}
+    In omnes sanctos {418}
+    In magnam feriam v {419}
+    De meretrice {420}
+    Epistula ad abbatem {421}
+    In sancta lumina sive In baptismum et in tentationem {422}
+    In nativitatem Joannis Baptistae {423}
+    In Christi ascensionem {424}
+    In illud: Dominus regnavit et in illud: Dies diei dicit verbum {425}
+    In assumptionem domini {426}
+    In resurrectionem domini {427}
+    Deprecatio {428}
+    Epitimia lxxiii {429}
+    In illud: Nolite thesaurizare vobis thesauros in terra {430}
+    In catenas sancti Petri {432}
+    Stichoi {433}
+    In passionem salvatoris nostri Jesu Christi {434}
+    In ramos palmarum {435}
+    In synaxim incorporalium {436}
+    Encomium in sanctum Joannem evangelistam {437}
+    In sanctum pascha {438}
+    Oratio de hypapante {442}
+    In illud: Credidi propter quod locutus sum {443}
+    In Christi natalem {444}
+    Encomium in sanctos martyres {445}
+    Encomium in sanctum Polycarpum {446}
+    Oratio de nativitate {450}
+    Oratio de epiphania {452}
+    Oratio in exaltationem crucis {460}
+    De nativitate {463}
+    In sanctam theophaniam {472}
+    In nativitatem Christi {473}
+    In illud: Si enim dimiseritis hominibus peccata eorum {475}
+    Quod deus superbis resistat {480}
+    Oratio de nativitate {483}
+    In sanctum Paulum apostolum {484}
+    De nativitate {485}
+    De laudibus sancti Pauli apostoli {486}
+    De sancta Thecla martyre {488}
+    De nativitate Joannis Baptistae {489}
+    In sanctum pascha {491}
+    In resurrectionem domini {492}
+    In resurrectionem domini B {493}
+    In operarios undecimae horae {494}
+    In Ecclesiasten {495}
+    Sermo cum presbyter fuit ordinatus {496}
+    In Isaiam {497}
+    In illud: Vidi dominum {498}
+    Epistula ad Caesarium {499}
+    In Psalmum 50 {500}
+    De nativitate Joannis Baptistae {502}
+    Commentarius in Job {505}
+    Laudatio Pauli apostoli {506}
+    Excerptum ex Adversus Judaeos (orat. 2) {507}
+    Homiliae in assumptionem domini (fort. auctore Severiano) {508}
+    In Juventinum et Maximum martyres {509}
+    In sanctum Romanum (homilia 1) {510}
+    In sanctum Julianum martyrem {511}
+    In sanctum Barlaam martyrem {512}
+    In martyres Aegyptios {513}
