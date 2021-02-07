@@ -323,8 +323,8 @@ class GreekPreprocessor:
 
 base_path = '/Users/paul/dev/fastai_workbench'
 path = f'{base_path}/ALL_REAL_JOHN_FOR_BAG_OF_WORDS.TXT'
-mode_of_dataset = 'training'
-greek_text = TextDataSet(path).training()  # select training data
+mode_of_dataset = 'development'
+greek_text = TextDataSet(path).development()  # select training data
 preprocessor = GreekPreprocessor()
 
 word2vec_documents = preprocessor.word2vec_corpus_factory(greek_text)
