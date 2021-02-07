@@ -286,6 +286,7 @@
    "outputs": [],
    "source": [
     "#Preprocessing\n",
+    "#base_path= '/User365/psaieg'\n",
     "path = f'{base_path}/greek_text/ALL_REAL_JOHN_FOR_BAG_OF_WORDS.TXT'\n",
     "greek_text = TextDataSet(path).training()\n",
     "preprocessor  = GreekPreprocessor()\n",
@@ -367,7 +368,11 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
+<<<<<<< HEAD
    "version": "3.6.8"
+=======
+   "version": "3.8.7"
+>>>>>>> 34b57c6deb0f16f0a5101f400eb767dc969c734e
   }
  },
  "nbformat": 4,

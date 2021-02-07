@@ -138,7 +138,7 @@
     "        return lemmata\n",
     "\n",
     "    def make_lda_documents(self, greek_text):\n",
-    "        # LDA wants a List of Lists of words (= document), it will make each sentence a document\n",
+    "        # LDA wants a List of Lists of words (= document), I will make each sentence a document\n",
     "        if self.verbose:\n",
     "            print(\"chars in greek text:\")\n",
     "            print(len(greek_text))\n",
@@ -224,17 +224,6 @@
    "cell_type": "code",
    "execution_count": 2,
    "metadata": {},
-   "outputs": [],
-   "source": [
-    "#set base path for server\n",
-    "base_path= '/User365/psaieg' #ND CAML\n",
-    "base_path= '/User/paul/dev/' #ND CAML"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
    "outputs": [
     {
      "ename": "NameError",
@@ -250,7 +239,7 @@
    ],
    "source": [
     "#Preprocessing\n",
-    "path = f'{base_path}/greek_text/ALL_REAL_JOHN_FOR_BAG_OF_WORDS.TXT'\n",
+    "path = '/notebooks/storage/greek_text/ALL_REAL_JOHN_FOR_BAG_OF_WORDS.TXT'\n",
     "greek_text = TextDataSet(path).training()\n",
     "preprocessor  = GreekPreprocessor()\n",
     "documents = preprocessor.word2vec_corpus_factory(greek_text)\n",
@@ -286,7 +275,7 @@
    "outputs": [],
    "source": [
     "#Preprocessing\n",
-    "path = f'{base_path}/greek_text/ALL_REAL_JOHN_FOR_BAG_OF_WORDS.TXT'\n",
+    "path = '/notebooks/storage/greek_text/ALL_REAL_JOHN_FOR_BAG_OF_WORDS.TXT'\n",
     "greek_text = TextDataSet(path).training()\n",
     "preprocessor  = GreekPreprocessor()\n",
     "lda_corpus, lda_dictionary, lda_documents = preprocessor.lda_corpus_factory(greek_text)\n",
