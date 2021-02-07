@@ -333,5 +333,5 @@ lda_corpus, lda_dictionary, lda_documents = \
 
 preprocessor.serialize(lda_corpus, lda_documents, lda_dictionary,
                        word2vec_documents, mode_of_dataset)
-# lda_corpus, lda_documents, lda_dictionary, word2vec_documents = \
+# word2vec_documents, lda_documents, lda_dictionary, lda_corpus = \
 # preprocessor.deserialize(mode_of_dataset)
